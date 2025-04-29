@@ -1,3 +1,6 @@
+# Name: Kuheli sen
+# Data Science
+
 # Traffic Accident Analysis & Visualization
 A data-driven project to analyze traffic accident data and uncover patterns related to road conditions, weather, and time of day. This project aims to identify accident hotspots and highlight contributing factors to improve public safety and awareness.
 
